@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T08:41:26.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5iwyWXFeL-IMgwZYZAAO" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T09:14:12.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="S4WBdsg6fcpC4z1R1VZB" version="22.1.3" type="github">
   <diagram name="Page-1" id="QR13LYVDM_UBqeWPz9cc">
     <mxGraphModel dx="1861" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -240,7 +240,7 @@
         <mxCell id="PL2FB5nJ2DbedrhWA2Is-57" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;1. use lang as strategy to fetch data from redis and mongo&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;2. ifr-redis and online_product is the same as IFR team&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="94.5" y="600" width="145.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PL2FB5nJ2DbedrhWA2Is-58" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;use interceptor add lang and region to Htttp Header when calling dependency&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="PL2FB5nJ2DbedrhWA2Is-58" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;use interceptor to add lang and region to Htttp Header when calling dependency&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="444.18" y="449" width="126" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PL2FB5nJ2DbedrhWA2Is-59" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;use lang in Http Header to find correct template files&lt;br&gt;&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" parent="1" vertex="1">
@@ -250,7 +250,7 @@
           <mxGeometry x="392" y="203" width="113" height="73" as="geometry" />
         </mxCell>
         <mxCell id="PL2FB5nJ2DbedrhWA2Is-61" value="user" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#FFFFFF;strokeWidth=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="202.17999999999995" y="490" width="130.63" height="50" as="geometry" />
+          <mxGeometry x="203.17999999999995" y="490" width="130.63" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PL2FB5nJ2DbedrhWA2Is-63" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;add fields region and lang to the message body&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-40" y="193" width="120" height="54" as="geometry" />
